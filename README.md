@@ -15,8 +15,16 @@ Apprentice @ Instrumentation Physics Laboratory, National Institute of Physics, 
 
 
 ### Projects
-Project 1
+# Project 1
 - details
 
-Project 2
+# Project 2
+- details
+
+
+### Publications
+Publication 1
+- details
+
+Publication 2
 - details
