@@ -1,4 +1,4 @@
-# Data Analysis | Python | SQL | MATLAB | Machine Learning
+# Data Analysis |  Machine Learning | Student Leader
 
 
 ### Education
