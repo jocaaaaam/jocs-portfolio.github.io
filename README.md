@@ -27,10 +27,10 @@
 
 ## Publications
 #### Multidimensional diffusion coefficient measurements using the ensemble-mean squared displacement method
-- [details](https://proceedings.spp-online.org/article/view/SPP-2021-PC-15)https://proceedings.spp-online.org/article/view/SPP-2021-PC-15
+- (https://proceedings.spp-online.org/article/view/SPP-2021-PC-15)https://proceedings.spp-online.org/article/view/SPP-2021-PC-15
 
 #### Effect of probe-to-probe collisions in three-dimensional space on the measured diffusion coefficient.
-- [details ](https://proceedings.spp-online.org/)https://proceedings.spp-online.org/
+- [(https://proceedings.spp-online.org/)https://proceedings.spp-online.org/](https://proceedings.spp-online.org/article/view/SPP-2023-PB-16)
 
 
 ## Affiliations and Awards
