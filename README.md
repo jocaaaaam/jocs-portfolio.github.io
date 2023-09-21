@@ -2,9 +2,12 @@
 
 
 ## Education
-- College (July 2023): Bachelor of Science in Applied Physics, University of the Philippines Diliman (UPD), Quezon City
+- College (July 2023): Bachelor of Science in **Applied Physics**, **University of the Philippines Diliman (UPD)**, Quezon City
+  - University Scholar and College Scholar Awardee   
 - Senior High School (March 2018): Ateneo de Manila Senior High School
+  - Honorable Mention 
 - Junior High School (March 2016): Marikina Science High School
+  - First Honors   
 
 ## Work Experience
 #### Apprentice @ Instrumentation Physics Laboratory, National Institute of Physics, UPD
@@ -23,8 +26,14 @@
 
 
 ## Publications
-#### Publication 1
-- details
+#### Multidimensional diffusion coefficient measurements using the ensemble-mean squared displacement method
+- [details](https://proceedings.spp-online.org/article/view/SPP-2021-PC-15)https://proceedings.spp-online.org/article/view/SPP-2021-PC-15
 
-#### Publication 2
-- details
+#### Effect of probe-to-probe collisions in three-dimensional space on the measured diffusion coefficient.
+- [details ](https://proceedings.spp-online.org/)https://proceedings.spp-online.org/
+
+
+## Affiliations and Awards
+#### 2022 Ignacio B. Gimenez Award 
+- UP students organization's Social Innovation Projects Excellence under the Entrepreneurship and Innovation category
+- National DOST Scholars' Summit 2021 (Overall Director)
